@@ -1,0 +1,5 @@
+services:
+    - type: web
+    name: kijani-hospital
+    env: docker
+    plan: free
